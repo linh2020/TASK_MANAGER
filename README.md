@@ -1,9 +1,5 @@
 
 /*  
- * Final Project: Task Manager
- * Team member: Linh Huynh, Huy Nguyen
- * Date: 12/12/2021
- * 
  * sql query
  * 
  

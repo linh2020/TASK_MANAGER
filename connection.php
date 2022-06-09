@@ -1,3 +1,4 @@
+<?php
 
 /*  
  * Final Project: Task Manager
@@ -8,7 +9,6 @@
  * 
  
 CREATE DATABASE CS174837;
-
 USE CS174837;
 
 CREATE TABLE table_list
@@ -40,3 +40,10 @@ CREATE TABLE users
     email    varchar(255) NOT NULL,
     PRIMARY KEY (username)
 );
+
+*/
+
+define('LOCALHOST', 'localhost');
+define('DB_USERNAME', 'root');
+define('DB_PASSWORD', '');
+define('DB_NAME', 'CS174837');
